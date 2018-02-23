@@ -30,7 +30,8 @@ def servletApi = 'org.apache.tomcat:tomcat-servlet-api:8.0.26'
 apply(plugin: 'idea')
 apply(plugin: 'cuba')
 
-def bintrayRepositoryUrl = "https://api.bintray.com/maven/balvi/cuba-components/cuba-component-translation-de/;publish=1"
+def bintrayRepositoryUrl = "https://api.bintray.com/maven/balvi/cuba-components/translation-de/;publish=1"
+
 
 cuba {
     artifact {

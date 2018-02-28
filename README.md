@@ -43,7 +43,7 @@ Add custom application component to your project:
 
 ```groovy
 dependencies {
-  appComponent("de.balvi.cuba.translationde:translation-de-global:1.0.2")
+  appComponent("de.balvi.cuba.translationde:translation-de-global:1.1.0")
   [...]
 }
 ```

@@ -164,7 +164,7 @@ configure(webModule) {
 
     dependencies {
         provided(servletApi)
-        compile(guiModule)sp
+        compile(guiModule)
 
     }
 

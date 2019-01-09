@@ -30,10 +30,11 @@ German translation of CUBA Platform implemented as application component
 
 | Platform Version | Add-on Version |
 | ---------------- | -------------- |
+| 6.9.x            | 1.2.x          |
 | 6.8.x            | 1.1.x          |
 | 6.7.x            | 1.0.x          |
 
-The latest version is: `1.1.2`
+The latest version is: `1.2.0`
 
 Add custom application component to your project:
 
@@ -43,7 +44,7 @@ Add custom application component to your project:
 
 ```groovy
 dependencies {
-  appComponent("de.balvi.cuba.translationde:translation-de-global:1.1.2")
+  appComponent("de.balvi.cuba.translationde:translation-de-global:1.2.0")
   [...]
 }
 ```

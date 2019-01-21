@@ -35,8 +35,8 @@ def bintrayRepositoryUrl = "https://api.bintray.com/maven/balvi/cuba-components/
 cuba {
     artifact {
         group = 'de.balvi.cuba.translationde'
-        version = "1.1.2"
-        isSnapshot = false
+        version = "1.1.3"
+        isSnapshot = true
     }
     tomcat {
         dir = "$project.rootDir/deploy/tomcat"

@@ -37,7 +37,7 @@ German translation of CUBA Platform implemented as application component
 | 6.8.x            | 1.1.x          |
 | 6.7.x            | 1.0.x          |
 
-The latest version is: `1.4.0`
+The latest version is: `1.5.0`
 
 Add custom application component to your project:
 
